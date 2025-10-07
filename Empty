@@ -1,0 +1,5 @@
+apps/web/.keep
+services/gha/.keep
+packages/ui/.keep
+packages/sdk/.keep
+infra/.keep
