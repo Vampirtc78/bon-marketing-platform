@@ -1,0 +1,11 @@
+{
+  "name": "bon-marketing-platform",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
+  "workspaces": ["apps/*", "services/*", "packages/*", "infra/*"],
+  "scripts": {
+    "build": "echo \"root build (use per-package builds)\"",
+    "lint": "echo \"root lint (use per-package lint)\"",
+    "typecheck": "echo \"root typecheck (use per-package typecheck)\""
+  }
+}
